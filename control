@@ -1,0 +1,9 @@
+Package: com.odnairy.dialerplusfix
+Name: DialerPlusFix
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: This tweak resolve bug with inputing "+" symbol. Usually it print "0+" when "+" expected.
+Maintainer: Roman Gardukevich
+Author: Roman Gardukevich
+Section: Tweaks
