@@ -14,4 +14,11 @@ Actual:
 * "0+" 
 
 Notes:
-Reproduced in some locals e.g. ru_RU.
+Reproduced in Belarus only.
+https://discussions.apple.com/thread/5319223
+
+##**How to install**##
+* Install OpenSSH on iPhone
+* Download .deb package form repository
+* Copy it to your iPhone (use `scp` command for example)
+* run command `dpkg -i package_name.deb`
